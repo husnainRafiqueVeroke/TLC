@@ -5,17 +5,15 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.activities.AuthActivity">
+    tools:context=".ui.activities.SplashActivity">
 
-    <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/auth_nav_host_fragment"
-        android:name="androidx.navigation.fragment.NavHostFragment"
+    <androidx.appcompat.widget.AppCompatImageView
         android:layout_width="0dp"
-        android:layout_height="0dp"
-        app:defaultNavHost="true"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_50sdp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:navGraph="@navigation/auth_navigation" />
+        app:srcCompat="@drawable/ic_tlc_logo" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Admin Car Buddy"
+rootProject.name = "Total Loss Consulting"
 include(":app")
  

@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Admin Car Buddy</string>
+    <string name="app_name">Total Loss Consulting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_tlc_header">Total Loss Consulting</string>
+    <string name="string_send_referrals"><u>Send\nReferrals</u></string>
+    <string name="string_auth_message"><![CDATA[Refer you clients that had their car totaled\n\nTotal Loss Consulting will ensure they receive the true value of their vehicle\n\nAt the same time earn a $50 referral fee\n\nSign up now to send & keep track of your referrals]]></string>
+    <string name="string_signup">Sign Up</string>
+    <string name="string_or">Or</string>
+    <string name="string_login">Log In</string>
+    <string name="string_remember_me">Remember Me</string>
+    <string name="string_forgot_password">Forgot Password</string>
+    <string name="string_go_back">Go Back</string>
 </resources>

@@ -8,8 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="color_primary">#1C92FF</color>
+    <color name="color_primary">@color/black</color>
 
     //Backgrounds
-    <color name="color_background">#FAFAFD</color>
+    <color name="color_background">@color/white</color>
+    <color name="color_txt_hint">#B5B5B5</color>
 </resources>
